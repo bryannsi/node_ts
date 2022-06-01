@@ -1,0 +1,1 @@
+https://bluuweb.github.io/desarrollo-web-bluuweb/21-03-api-rest/#schema-models
